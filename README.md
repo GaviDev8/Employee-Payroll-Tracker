@@ -1,4 +1,4 @@
-# <Employee-Payroll-Tracker>
+## 👩🏾‍💻 Employee-Payroll-Tracker 👩🏾‍💻
 
 ## Description
 
@@ -31,8 +31,6 @@ Example of the project demo when viewing the console for average salary, employe
 
 ![Console display of average salary, employee sorting, and random employee pic](./Assets/images/03-javascript-console-demo.png)
 
-
-## License
 
 MIT License
 ---
